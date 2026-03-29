@@ -1,7 +1,7 @@
 {
   "remoteURL": "git@github.com:yilinguo121/note.git",
   "gitLocation": "",
-  "syncinterval": 0,
+  "syncinterval": 5,
   "isSyncOnLoad": false,
   "checkStatusOnLoad": true
 }
